@@ -1,10 +1,6 @@
 [submodule "triton"]
 	path = triton
 	url = https://github.com/openai/triton.git
-[submodule "triton-torch-inductor-stable"]
-	path = triton-torch-inductor-stable
-	url = https://github.com/openai/triton.git
-	branch = torch-inductor-stable
 [submodule "triton-legacy"]
 	path = triton-legacy
 	url = https://github.com/openai/triton.git
