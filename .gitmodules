@@ -11,3 +11,7 @@
 	path = cutlass
 	url = https://github.com/rkindi/cutlass-2.11.git
 	branch = with_fwd_fixes
+[submodule "triton-torch-inductor-stable"]
+	path = triton-torch-inductor-stable
+	url = https://github.com/rkindi/triton.git
+	branch = torch-inductor-stable-original
